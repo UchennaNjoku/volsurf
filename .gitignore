@@ -1,0 +1,17 @@
+# CMake  
+/build/
+CMakeFiles/  
+CMakeCache.txt  
+Makefuke
+
+# Python  
+.venv/  
+*.egg-info/  
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Misc
+*.log
