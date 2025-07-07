@@ -1,9 +1,4 @@
 # volsurf-cpp
-volsurf‑cpp
-
-
-
-
 
 High‑Performance Volatility Surface Engine with C++ backend and Python front‑end. Provides fast implied‑volatility inversion, arbitrage‑free surface fitting, animation, and exotic option pricing in a single pipeline.
 
